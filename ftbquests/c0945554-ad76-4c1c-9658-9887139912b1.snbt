@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "c0945554ad764c1c96589887139912b1"
+	name: "tacosalfornoh#c0945554"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

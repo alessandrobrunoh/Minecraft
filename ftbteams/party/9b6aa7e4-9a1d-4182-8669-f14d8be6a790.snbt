@@ -1,0 +1,22 @@
+{
+	id: "9b6aa7e4-9a1d-4182-8669-f14d8be6a790"
+	type: "party"
+	owner: "bf98b478-0a95-4d40-ae4d-fd79a71980f7"
+	ranks: {
+		c0945554-ad76-4c1c-9658-9887139912b1: "member"
+		bf98b478-0a95-4d40-ae4d-fd79a71980f7: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Volante__'s Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59CCFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1776365931588L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Volante__\"}]}" }
+		{ from: "bf98b478-0a95-4d40-ae4d-fd79a71980f7", date: 1776365931595L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"tacosalfornoh\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1776365935018L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"tacosalfornoh\"}]}" }
+	]
+	extra: { }
+}

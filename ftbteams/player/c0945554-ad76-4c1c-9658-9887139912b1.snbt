@@ -1,0 +1,15 @@
+{
+	id: "c0945554-ad76-4c1c-9658-9887139912b1"
+	type: "player"
+	player_name: "tacosalfornoh"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "tacosalfornoh"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFE559"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,9 @@
+{
+  "singleplayer": {
+    "New World": true
+  },
+  "multiplayer": {
+    "bf98b478-0a95-4d40-ae4d-fd79a71980f7": true,
+    "c0945554-ad76-4c1c-9658-9887139912b1": true
+  }
+}

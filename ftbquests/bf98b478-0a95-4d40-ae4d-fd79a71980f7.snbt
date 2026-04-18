@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "bf98b4780a954d40ae4dfd79a71980f7"
+	name: "Volante__#bf98b478"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

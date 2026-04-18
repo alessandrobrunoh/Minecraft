@@ -1,0 +1,15 @@
+{
+	id: "bf98b478-0a95-4d40-ae4d-fd79a71980f7"
+	type: "player"
+	player_name: "Volante__"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Volante__"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59CCFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
