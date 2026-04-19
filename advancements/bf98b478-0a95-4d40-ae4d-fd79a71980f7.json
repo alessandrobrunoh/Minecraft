@@ -12008,15 +12008,9 @@
     },
     "done": true
   },
-  "createdeco:recipes/decorations/copper_support_wedge": {
+  "create:andesite_casing": {
     "criteria": {
-      "has_item": "2026-04-19 03:10:42 +0200"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/industrial_iron_support_wedge": {
-    "criteria": {
-      "has_item": "2026-04-19 03:10:05 +0200"
+      "0": "2026-04-19 02:58:31 +0200"
     },
     "done": true
   },
@@ -12026,123 +12020,9 @@
     },
     "done": true
   },
-  "createdeco:recipes/decorations/brass_bars_overlay": {
-    "criteria": {
-      "has_item": "2026-04-19 03:23:44 +0200"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/light_gray_placard": {
-    "criteria": {
-      "has_item": "2026-04-19 03:23:44 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2026-04-19 03:33:47 +0200"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/cyan_placard": {
-    "criteria": {
-      "has_item": "2026-04-19 03:23:44 +0200"
-    },
-    "done": true
-  },
-  "createbigcannons:recipes/misc/cannon_welder_mirrored": {
-    "criteria": {
-      "has_blaze_burner": "2026-04-19 03:09:41 +0200"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2026-04-19 03:02:31 +0200"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/logistics/content_observer": {
-    "criteria": {
-      "has_item": "2026-04-19 03:23:07 +0200"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/logistics/display_link": {
-    "criteria": {
-      "has_item": "2026-04-19 03:23:07 +0200"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/gray_placard": {
-    "criteria": {
-      "has_item": "2026-04-19 03:23:44 +0200"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/red_copper_lamp": {
-    "criteria": {
-      "has_item": "2026-04-19 03:10:42 +0200"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/copper_bars_overlay": {
-    "criteria": {
-      "has_item": "2026-04-19 03:10:42 +0200"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/red_placard": {
-    "criteria": {
-      "has_item": "2026-04-19 03:23:44 +0200"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/brass_mesh_fence": {
-    "criteria": {
-      "has_item": "2026-04-19 03:23:44 +0200"
-    },
-    "done": true
-  },
-  "create_connected:recipes/crafting/kinetics/fluid_vessel_from_conversion": {
-    "criteria": {
-      "has_item": "2026-04-19 03:31:04 +0200"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/cooking/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2026-04-19 03:01:24 +0200"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/yellow_placard": {
-    "criteria": {
-      "has_item": "2026-04-19 03:23:44 +0200"
-    },
-    "done": true
-  },
-  "create:burner": {
-    "criteria": {
-      "0": "2026-04-19 03:09:41 +0200"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/copper_sheet_metal": {
-    "criteria": {
-      "has_item": "2026-04-19 03:10:42 +0200"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/copper_catwalk_railing_forge": {
-    "criteria": {
-      "has_item": "2026-04-19 03:10:42 +0200"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/copper_mesh_fence": {
-    "criteria": {
-      "has_item": "2026-04-19 03:10:42 +0200"
     },
     "done": true
   },
@@ -12152,15 +12032,15 @@
     },
     "done": true
   },
-  "createdeco:recipes/decorations/blue_brass_lamp": {
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
-      "has_item": "2026-04-19 03:23:44 +0200"
+      "has_beetroot": "2026-04-19 03:01:24 +0200"
     },
     "done": true
   },
-  "createdeco:recipes/decorations/red_brass_lamp": {
+  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
     "criteria": {
-      "has_item": "2026-04-19 03:23:44 +0200"
+      "has_dandelion": "2026-04-19 03:02:31 +0200"
     },
     "done": true
   },
@@ -12170,15 +12050,15 @@
     },
     "done": true
   },
-  "createbigcannons:recipes/misc/big_cannon_sheet_inexpensive": {
+  "createbigcannons:recipes/misc/cannon_welder_mirrored": {
     "criteria": {
-      "has_inexpensive_big_cartridge_sheet": "2026-04-19 03:10:42 +0200"
+      "has_blaze_burner": "2026-04-19 03:09:41 +0200"
     },
     "done": true
   },
-  "createdeco:recipes/decorations/lime_placard": {
+  "create:burner": {
     "criteria": {
-      "has_item": "2026-04-19 03:23:44 +0200"
+      "0": "2026-04-19 03:09:41 +0200"
     },
     "done": true
   },
@@ -12188,81 +12068,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+  "createdeco:recipes/decorations/industrial_iron_support_wedge": {
     "criteria": {
-      "has_copper_block": "2026-04-19 03:33:47 +0200"
-    },
-    "done": true
-  },
-  "immersive_weathering:recipes/honeycomb": {
-    "criteria": {
-      "has_the_recipe": "2026-04-19 03:33:47 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot": {
-    "criteria": {
-      "has_copper_block": "2026-04-19 03:33:47 +0200"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/green_copper_lamp": {
-    "criteria": {
-      "has_item": "2026-04-19 03:10:42 +0200"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/logistics/redstone_contact": {
-    "criteria": {
-      "has_item": "2026-04-19 03:23:07 +0200"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/blue_placard": {
-    "criteria": {
-      "has_item": "2026-04-19 03:23:44 +0200"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/brown_placard": {
-    "criteria": {
-      "has_item": "2026-04-19 03:23:44 +0200"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/curiosities/brown_toolbox": {
-    "criteria": {
-      "has_item": "2026-04-19 03:34:12 +0200"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/clockwork_bearing": {
-    "criteria": {
-      "has_item": "2026-04-19 03:23:07 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2026-04-19 03:33:47 +0200"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/light_blue_placard": {
-    "criteria": {
-      "has_item": "2026-04-19 03:23:44 +0200"
+      "has_item": "2026-04-19 03:10:05 +0200"
     },
     "done": true
   },
   "createdeco:recipes/decorations/industrial_iron_catwalk_railing_forge": {
     "criteria": {
       "has_item": "2026-04-19 03:10:05 +0200"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/rotation_speed_controller": {
-    "criteria": {
-      "has_item": "2026-04-19 03:23:07 +0200"
     },
     "done": true
   },
@@ -12278,147 +12092,9 @@
     },
     "done": true
   },
-  "createdeco:recipes/decorations/black_placard": {
-    "criteria": {
-      "has_item": "2026-04-19 03:23:44 +0200"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/mechanical_arm": {
-    "criteria": {
-      "has_item": "2026-04-19 03:23:07 +0200"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/copper_hull": {
-    "criteria": {
-      "has_item": "2026-04-19 03:33:47 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper": {
-    "criteria": {
-      "has_copper_block": "2026-04-19 03:33:47 +0200"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/orange_placard": {
-    "criteria": {
-      "has_item": "2026-04-19 03:23:44 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
-    "criteria": {
-      "has_copper_block": "2026-04-19 03:33:47 +0200"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/yellow_copper_lamp": {
-    "criteria": {
-      "has_item": "2026-04-19 03:10:42 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_beetroot": {
-    "criteria": {
-      "has_beetroot": "2026-04-19 03:01:24 +0200"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/pink_placard": {
-    "criteria": {
-      "has_item": "2026-04-19 03:23:44 +0200"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/copper_hull_from_stonecutting": {
-    "criteria": {
-      "has_item": "2026-04-19 03:33:47 +0200"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/brass_catwalk_forge": {
-    "criteria": {
-      "has_item": "2026-04-19 03:23:44 +0200"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/brass_support_wedge": {
-    "criteria": {
-      "has_item": "2026-04-19 03:23:44 +0200"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/mechanical_crafter": {
-    "criteria": {
-      "has_item": "2026-04-19 03:23:07 +0200"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/crafting/fuel_tank": {
-    "criteria": {
-      "has_item": "2026-04-19 03:31:04 +0200"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/green_brass_lamp": {
-    "criteria": {
-      "has_item": "2026-04-19 03:23:44 +0200"
-    },
-    "done": true
-  },
-  "create:andesite_casing": {
-    "criteria": {
-      "0": "2026-04-19 02:58:31 +0200"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/copper_catwalk_forge": {
-    "criteria": {
-      "has_item": "2026-04-19 03:10:42 +0200"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/blue_copper_lamp": {
-    "criteria": {
-      "has_item": "2026-04-19 03:10:42 +0200"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/purple_placard": {
-    "criteria": {
-      "has_item": "2026-04-19 03:23:44 +0200"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/industrial_iron_catwalk_forge": {
     "criteria": {
       "has_item": "2026-04-19 03:10:05 +0200"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/brass_door": {
-    "criteria": {
-      "has_item": "2026-04-19 03:23:07 +0200"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/yellow_brass_lamp": {
-    "criteria": {
-      "has_item": "2026-04-19 03:23:44 +0200"
-    },
-    "done": true
-  },
-  "immersive_weathering:immersive_weathering/bark_off": {
-    "criteria": {
-      "wax_off": "2026-04-19 03:15:38 +0200"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/logistics/stockpile_switch": {
-    "criteria": {
-      "has_item": "2026-04-19 03:23:07 +0200"
     },
     "done": true
   },
@@ -12428,33 +12104,9 @@
     },
     "done": true
   },
-  "immersive_weathering:recipes/oak_bark": {
-    "criteria": {
-      "has_copper_block": "2026-04-19 03:15:38 +0200"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/magenta_placard": {
-    "criteria": {
-      "has_item": "2026-04-19 03:23:44 +0200"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/sequenced_gearshift": {
-    "criteria": {
-      "has_item": "2026-04-19 03:23:07 +0200"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/green_industrial_iron_lamp": {
     "criteria": {
       "has_item": "2026-04-19 03:10:05 +0200"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/brass_catwalk_railing_forge": {
-    "criteria": {
-      "has_item": "2026-04-19 03:23:44 +0200"
     },
     "done": true
   },
@@ -12476,9 +12128,285 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/copper_support_wedge": {
+    "criteria": {
+      "has_item": "2026-04-19 03:10:42 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/red_copper_lamp": {
+    "criteria": {
+      "has_item": "2026-04-19 03:10:42 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_bars_overlay": {
+    "criteria": {
+      "has_item": "2026-04-19 03:10:42 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_sheet_metal": {
+    "criteria": {
+      "has_item": "2026-04-19 03:10:42 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_catwalk_railing_forge": {
+    "criteria": {
+      "has_item": "2026-04-19 03:10:42 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_mesh_fence": {
+    "criteria": {
+      "has_item": "2026-04-19 03:10:42 +0200"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/big_cannon_sheet_inexpensive": {
+    "criteria": {
+      "has_inexpensive_big_cartridge_sheet": "2026-04-19 03:10:42 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/green_copper_lamp": {
+    "criteria": {
+      "has_item": "2026-04-19 03:10:42 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/yellow_copper_lamp": {
+    "criteria": {
+      "has_item": "2026-04-19 03:10:42 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_catwalk_forge": {
+    "criteria": {
+      "has_item": "2026-04-19 03:10:42 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/blue_copper_lamp": {
+    "criteria": {
+      "has_item": "2026-04-19 03:10:42 +0200"
+    },
+    "done": true
+  },
+  "immersive_weathering:immersive_weathering/bark_off": {
+    "criteria": {
+      "wax_off": "2026-04-19 03:15:38 +0200"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/oak_bark": {
+    "criteria": {
+      "has_copper_block": "2026-04-19 03:15:38 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/content_observer": {
+    "criteria": {
+      "has_item": "2026-04-19 03:23:07 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/display_link": {
+    "criteria": {
+      "has_item": "2026-04-19 03:23:07 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/redstone_contact": {
+    "criteria": {
+      "has_item": "2026-04-19 03:23:07 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/clockwork_bearing": {
+    "criteria": {
+      "has_item": "2026-04-19 03:23:07 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/rotation_speed_controller": {
+    "criteria": {
+      "has_item": "2026-04-19 03:23:07 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_arm": {
+    "criteria": {
+      "has_item": "2026-04-19 03:23:07 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_crafter": {
+    "criteria": {
+      "has_item": "2026-04-19 03:23:07 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/brass_door": {
+    "criteria": {
+      "has_item": "2026-04-19 03:23:07 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/stockpile_switch": {
+    "criteria": {
+      "has_item": "2026-04-19 03:23:07 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/sequenced_gearshift": {
+    "criteria": {
+      "has_item": "2026-04-19 03:23:07 +0200"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/nixie_tube": {
     "criteria": {
       "has_item": "2026-04-19 03:23:07 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brass_bars_overlay": {
+    "criteria": {
+      "has_item": "2026-04-19 03:23:44 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/light_gray_placard": {
+    "criteria": {
+      "has_item": "2026-04-19 03:23:44 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/cyan_placard": {
+    "criteria": {
+      "has_item": "2026-04-19 03:23:44 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/gray_placard": {
+    "criteria": {
+      "has_item": "2026-04-19 03:23:44 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/red_placard": {
+    "criteria": {
+      "has_item": "2026-04-19 03:23:44 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brass_mesh_fence": {
+    "criteria": {
+      "has_item": "2026-04-19 03:23:44 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/yellow_placard": {
+    "criteria": {
+      "has_item": "2026-04-19 03:23:44 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/blue_brass_lamp": {
+    "criteria": {
+      "has_item": "2026-04-19 03:23:44 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/red_brass_lamp": {
+    "criteria": {
+      "has_item": "2026-04-19 03:23:44 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/lime_placard": {
+    "criteria": {
+      "has_item": "2026-04-19 03:23:44 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/blue_placard": {
+    "criteria": {
+      "has_item": "2026-04-19 03:23:44 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brown_placard": {
+    "criteria": {
+      "has_item": "2026-04-19 03:23:44 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/light_blue_placard": {
+    "criteria": {
+      "has_item": "2026-04-19 03:23:44 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/black_placard": {
+    "criteria": {
+      "has_item": "2026-04-19 03:23:44 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/orange_placard": {
+    "criteria": {
+      "has_item": "2026-04-19 03:23:44 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/pink_placard": {
+    "criteria": {
+      "has_item": "2026-04-19 03:23:44 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brass_catwalk_forge": {
+    "criteria": {
+      "has_item": "2026-04-19 03:23:44 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brass_support_wedge": {
+    "criteria": {
+      "has_item": "2026-04-19 03:23:44 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/green_brass_lamp": {
+    "criteria": {
+      "has_item": "2026-04-19 03:23:44 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/purple_placard": {
+    "criteria": {
+      "has_item": "2026-04-19 03:23:44 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/yellow_brass_lamp": {
+    "criteria": {
+      "has_item": "2026-04-19 03:23:44 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/magenta_placard": {
+    "criteria": {
+      "has_item": "2026-04-19 03:23:44 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brass_catwalk_railing_forge": {
+    "criteria": {
+      "has_item": "2026-04-19 03:23:44 +0200"
     },
     "done": true
   },
@@ -12497,6 +12425,90 @@
   "createdeco:recipes/decorations/green_placard": {
     "criteria": {
       "has_item": "2026-04-19 03:23:44 +0200"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/fluid_vessel_from_conversion": {
+    "criteria": {
+      "has_item": "2026-04-19 03:31:04 +0200"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/fuel_tank": {
+    "criteria": {
+      "has_item": "2026-04-19 03:31:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2026-04-19 03:33:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2026-04-19 03:33:47 +0200"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/honeycomb": {
+    "criteria": {
+      "has_the_recipe": "2026-04-19 03:33:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2026-04-19 03:33:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2026-04-19 03:33:47 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_hull": {
+    "criteria": {
+      "has_item": "2026-04-19 03:33:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2026-04-19 03:33:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2026-04-19 03:33:47 +0200"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_hull_from_stonecutting": {
+    "criteria": {
+      "has_item": "2026-04-19 03:33:47 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/brown_toolbox": {
+    "criteria": {
+      "has_item": "2026-04-19 03:34:12 +0200"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/block_pocket_manager": {
+    "criteria": {
+      "has_redstone_block": "2026-04-19 16:03:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2026-04-19 16:03:54 +0200"
     },
     "done": true
   },
