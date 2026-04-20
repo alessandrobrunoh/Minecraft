@@ -3,7 +3,7 @@
 	type: "party"
 	owner: "bf98b478-0a95-4d40-ae4d-fd79a71980f7"
 	ranks: {
-		c0945554-ad76-4c1c-9658-9887139912b1: "member"
+		c0945554-ad76-4c1c-9658-9887139912b1: "officer"
 		bf98b478-0a95-4d40-ae4d-fd79a71980f7: "owner"
 	}
 	properties: {
@@ -17,6 +17,7 @@
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1776365931588L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Volante__\"}]}" }
 		{ from: "bf98b478-0a95-4d40-ae4d-fd79a71980f7", date: 1776365931595L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"tacosalfornoh\"}]}" }
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1776365935018L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"tacosalfornoh\"}]}" }
+		{ from: "bf98b478-0a95-4d40-ae4d-fd79a71980f7", date: 1776723278026L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.promoted\",\"with\":[{\"color\":\"yellow\",\"text\":\"tacosalfornoh\"}]}" }
 	]
 	extra: { }
 }
