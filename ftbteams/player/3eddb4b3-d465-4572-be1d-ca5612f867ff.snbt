@@ -1,0 +1,15 @@
+{
+	id: "3eddb4b3-d465-4572-be1d-ca5612f867ff"
+	type: "player"
+	player_name: "Califfo_Omar"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Califfo_Omar"
+		"ftbteams:description": ""
+		"ftbteams:color": "#6259FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

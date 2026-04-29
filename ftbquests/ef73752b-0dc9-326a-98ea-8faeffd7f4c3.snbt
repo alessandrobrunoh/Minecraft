@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "ef73752b0dc9326a98ea8faeffd7f4c3"
+	name: "Califfo_Omar#ef73752b"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

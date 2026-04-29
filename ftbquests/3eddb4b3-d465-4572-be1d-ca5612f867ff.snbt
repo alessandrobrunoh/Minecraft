@@ -1,0 +1,19 @@
+{
+	version: 1
+	uuid: "3eddb4b3d4654572be1dca5612f867ff"
+	name: "Califfo_Omar#3eddb4b3"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		4C653D3F7D0BB375: 13
+	}
+	started: {
+		0000000000000001: 1777314438574L
+		5338AB36F37EA112: 1777314438574L
+		4C653D3F7D0BB375: 1777314438574L
+		20135FF034291E5C: 1777314438574L
+	}
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

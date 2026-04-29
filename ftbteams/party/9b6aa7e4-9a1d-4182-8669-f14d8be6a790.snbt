@@ -3,6 +3,7 @@
 	type: "party"
 	owner: "bf98b478-0a95-4d40-ae4d-fd79a71980f7"
 	ranks: {
+		3eddb4b3-d465-4572-be1d-ca5612f867ff: "member"
 		c0945554-ad76-4c1c-9658-9887139912b1: "officer"
 		bf98b478-0a95-4d40-ae4d-fd79a71980f7: "owner"
 	}
@@ -18,6 +19,10 @@
 		{ from: "bf98b478-0a95-4d40-ae4d-fd79a71980f7", date: 1776365931595L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"tacosalfornoh\"}]}" }
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1776365935018L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"tacosalfornoh\"}]}" }
 		{ from: "bf98b478-0a95-4d40-ae4d-fd79a71980f7", date: 1776723278026L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.promoted\",\"with\":[{\"color\":\"yellow\",\"text\":\"tacosalfornoh\"}]}" }
+		{ from: "bf98b478-0a95-4d40-ae4d-fd79a71980f7", date: 1777313702889L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Califfo_Omar\"}]}" }
+		{ from: "bf98b478-0a95-4d40-ae4d-fd79a71980f7", date: 1777313947949L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Califfo_Omar\"}]}" }
+		{ from: "bf98b478-0a95-4d40-ae4d-fd79a71980f7", date: 1777314889089L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Califfo_Omar\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1777314909084L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Califfo_Omar\"}]}" }
 	]
 	extra: { }
 }
